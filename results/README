@@ -4,11 +4,11 @@ The `results/` directory contains PDF versions of the empirical results reported
 
 - **Descriptive Statistics:** Summary statistics for the variables used in the analysis.
 - **Correlation coeffient:** Correlation analysis of the main variables.
-- **Baseline Regression Result:** Estimates of the impact of Cross-Border E-Commerce Comprehensive Pilot Zones on domestic value chain upgrading.
+- **Regression Result:** Estimates of the impact of Cross-Border E-Commerce Comprehensive Pilot Zones on domestic value chain upgrading.
 - **Parallel Trends Test:** Results related to the DID identification assumption.
-- **Robustness Checks:** Change a different measurment of the dependent variable to check the robustness.
+- **Change dependent variable:** Change a different measurment of the dependent variable to check the robustness.
 - **Mechanism Analysis:** Results examining industrial structure upgrading, industrial agglomeration, and foreign investment inflows as potential transmission mechanisms.
 - **Regional Heterogeneity:** Results comparing the estimated policy effects between northern and southern China.
 - **Placebo Test:** Placebo-test results, if included in the empirical analysis.
 
-The reported findings are based on the thesis analysis. Detailed model specifications and reproduction instructions are documented separately.
+The reported findings are based on the thesis analysis. Detailed model specifications and reproduction instructions are documented separately in the full thesis
