@@ -19,7 +19,7 @@ Does the policy effect differ across regions?
 ## 3. Data
 - Data Source:Inter-provincial non-competitive input-output table in China
 - Sample Years: 2012, 2015 and 2017
-- Policy of Interest: Establishment of Cross-Border E-Commerce Comprehensive Pilot Zones
+- Policy of Interest: Establishment of Cross-Border E-Commerce Comprehensive Pilot Zones in 2015 and 2016.
 - Data Type: Province-Industry-Year Panel Data
 
 ## 4. Methodology
@@ -44,42 +44,37 @@ Regional heterogeneity: The estimated policy effect is more pronounced in northe
 
 ## 6. Repository Structure
 
+```text
+DID/
+├── README.md
+├── 01_thesis/
+│   └── thesis.pdf
+├── 02_code/
+│   └── main.do
+├── 03_data_original/
+└── 04_results_original/
+```
 
-## 7.  How to Run the Code
-Reproduction instructions: To be completed.
+- `README.md`: Project overview, research questions, methodology, and main findings.
+- `01_thesis/`: The undergraduate thesis document.
+- `02_code/`: Stata scripts for data processing and empirical analysis.
+- `03_data_original/`: Original research data. Inter-provicial non-competitive input-output table across 31 provinces and 42 industires in China.
+- `04_results_original/`: Descriptive statistics，regression tables, robustness check and other empirical results.
 
-The following information remains to be documented:
 
-Stata version and operating environment
 
-Required user-written Stata packages and their versions
-
-Data download or access instructions
-
-Required variable names and data format
-
-Data and output directory configuration
-
-Recommended execution order
-
-Expected output tables and figures
-
-The code will be updated to use reproducible paths and clearly documented dependencies before the project is presented as fully reproducible.
-
-## 8. Limitations and Further Documents
-
-## 9. Thesis
+## 7. Thesis
 Thesis title: The Impact of Cross-Border E-Commerce Pilot Zones on Domestic Value Chain Upgrading in China
 
 The thesis document is included in the repository where permitted. Please refer to the uploaded thesis file for the full research discussion and empirical analysis.
 
-## 10. Author and Project Information
+## 8. Author and Project Information
 
 Author: Yinuo Zhang
 
 Institution: Business School, Dalian University of Technology
 
-Project type: Undergraduate thesis
+Project type: Undergraduate thesis 
 
 Research area: Domestic Value Chain, Regional Economics, and Cross-border E-commerce Pilot Zone
 
