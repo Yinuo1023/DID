@@ -2,7 +2,7 @@
 My undergraduate thesis: Research on the Impact of Cross-border E-commerce Pilot Zones on the Domestic Value Chain Upgrading
 
 ## 1. Project Overview:
- Based on the relevant theories of value chain, this study examines how cross-border e-commerce pilot zones, initially launched in Hangzhou in 2015 and subsequently extended to 12 more Chinese cities in 2016, contribute to the upgrading of regional domestic value chain positions.
+ Based on the relevant theories of value chain, this study examines how **cross-border e-commerce pilot zones**, initially launched in Hangzhou in 2015 and subsequently extended to 12 more Chinese cities in 2016, contribute to the upgrading of regional **domestic value chain positions**.
    
 Using panel data of 30 provinces and 42 industries from 2012, 2015, and 2017 of China's provincial regional input-output tables, the study examines the impact of the policy, explores potential transmission mechanisms, and investigates regional heterogeneity. 
 
@@ -39,11 +39,11 @@ The empirical analysis includes:
 
 The study reports the following findings:
 
-Positive policy effect: The establishment of Cross-Border E-Commerce Comprehensive Pilot Zones has a statistically significant positive effect on domestic value chain upgrading. The reported result is robust to the robustness checks conducted in the study.
+**Positive policy effect**: The establishment of Cross-Border E-Commerce Comprehensive Pilot Zones has a statistically significant positive effect on domestic value chain upgrading. The reported result is robust to the robustness checks conducted in the study.
 
-Potential transmission mechanisms: The policy promotes domestic value chain upgrading through industrial structure upgrading, industrial agglomeration, and foreign investment inflows.
+**Potential transmission mechanisms**: The policy promotes domestic value chain upgrading through industrial structure upgrading, industrial agglomeration, and foreign investment inflows.
 
-Regional heterogeneity: The estimated policy effect is more pronounced in northern China than in southern China. This finding may provide a reference for policies aimed at addressing regional economic development imbalances.
+**Regional heterogeneity**: The estimated policy effect is more pronounced in northern China than in southern China. This finding may provide a reference for policies aimed at addressing regional economic development imbalances.
 
 ## 6. Repository Structure
 
